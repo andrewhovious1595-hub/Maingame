@@ -1,0 +1,14 @@
+# Cloudflare Pages & Netlify SPA / Deep-Link Routing
+/api/*  http://localhost:4000/api/:splat  200
+/name/*  /index.html  200
+/phone/*  /index.html  200
+/address/*  /index.html  200
+/docket/*  /index.html  200
+/social/*  /index.html  200
+/entity/*  /index.html  200
+/report/*  /index.html  200
+/guides/*  /index.html  200
+/partners/*  /index.html  200
+/privacy/*  /index.html  200
+/legal/*  /index.html  200
+/*  /index.html  200
